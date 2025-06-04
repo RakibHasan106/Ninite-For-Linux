@@ -1,0 +1,5 @@
+-- git clone
+-- go to the folder
+-- open terminal and run chmod +x install.sh
+-- then run ./install.sh
+-- done
